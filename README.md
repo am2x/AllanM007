@@ -1,4 +1,4 @@
-### Hi there, I'm [Allan!](https://allanm007.github.io)👋.
+### Hi there, I'm [Allan!](https://am2x.github.io)👋.
 
 <br/>
 <br/>
@@ -8,7 +8,7 @@
 
 <br />
 
-<!-- Hi, I'm a software engineer from Nairobi,Kenya.
+<!-- Hi, I'm a software engineer from Nairobi, Kenya.
 
 - 🔭 I’m currently working on [snap](https://github.com/AllanM007/snap)
 - 🌱 I’m currently learning  -->
