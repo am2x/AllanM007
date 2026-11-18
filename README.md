@@ -18,9 +18,3 @@
 <!--code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="26" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code-->
-
-<!--
-
-Here are some ideas to get you started:
-
--->
